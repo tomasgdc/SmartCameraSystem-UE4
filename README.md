@@ -11,7 +11,6 @@ It could be  used in multiplayer game as spectator camera which would always go 
 
 
 # Camera AI Actor
-How Event Tick looks like: <br />
 Step 1 - Generate cluster: <br />
 ![image](https://user-images.githubusercontent.com/10357361/214280513-5271e54a-bea4-4698-9f55-80ffc9411420.png)
 Step 2 - Once we have generated cluster we need to update new centroids positions: <br />
