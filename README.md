@@ -28,6 +28,7 @@ Once we have all actors that are facing camera  and do not. We calculate our loo
 Then get average rotator in that position otherwise get averga rotator to actors who arer not facing camera.
 ![image](https://user-images.githubusercontent.com/10357361/214293265-36fa0123-999c-4a1d-baf6-cc76b0c3e6ed.png)
 ![image](https://user-images.githubusercontent.com/10357361/214293441-2f87f5a9-c7e0-46a4-8c11-b4732baeb201.png)
+Update new camera position with new camera location we got from cluster and look at rotator were camera should be facing.
 ![image](https://user-images.githubusercontent.com/10357361/214293597-1829e7f2-dc56-4aa3-8acf-145e0c474a69.png)
 
 
