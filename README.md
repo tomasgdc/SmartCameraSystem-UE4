@@ -23,6 +23,12 @@ Get all actors that are facing camera and those who do not
 ![image](https://user-images.githubusercontent.com/10357361/214281603-89f02489-6ead-41d2-946c-b3594ed7c3bc.png)
 ![image](https://user-images.githubusercontent.com/10357361/214281639-137a5d73-279d-429d-8f43-2eff045210d4.png)
 
+Camera AI Controller <br />
+![image](https://user-images.githubusercontent.com/10357361/214293265-36fa0123-999c-4a1d-baf6-cc76b0c3e6ed.png)
+![image](https://user-images.githubusercontent.com/10357361/214293441-2f87f5a9-c7e0-46a4-8c11-b4732baeb201.png)
+![image](https://user-images.githubusercontent.com/10357361/214293597-1829e7f2-dc56-4aa3-8acf-145e0c474a69.png)
+
+
 
 
 
