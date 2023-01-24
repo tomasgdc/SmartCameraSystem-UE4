@@ -1,1 +1,2 @@
-# SmartCameraSystem-UE4
+# SmartCameraSystem
+UE4 Smart Camera System
