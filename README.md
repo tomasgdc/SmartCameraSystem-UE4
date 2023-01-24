@@ -7,7 +7,7 @@ It generates  numbes of cluster you specify in config and based  on given data c
 ![image](https://user-images.githubusercontent.com/10357361/214296235-6800bf13-aaf0-4f19-a856-d986c05a288e.png)
 
 # Why we would want to have it?
-It could be  used in multiplayer game as spectator camera which would always go to an area that has most amount of players. As you know, an area that most amount of players always has most amount of action going on.
+It could be  used in multiplayer game as spectator camera which would always go to an area that has most amount of players. As you know, an area that has most amount of players, will always have most amount of action going on that you would not want to miss it.
 
 
 # Camera AI Actor
