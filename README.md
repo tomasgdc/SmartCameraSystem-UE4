@@ -4,8 +4,10 @@
 # Intro
 Basic idea behind this technique is to use  K-means clustering which is unsupervised machine learning algorithm.
 It generates  numbes of cluster you specify in config and based  on given data camera will follow to a cluster that has most amount of players.
-Usuaally in multiplayer games  an area that has most amount of players you know where the most biggest  spectacle would be going on.
 ![image](https://user-images.githubusercontent.com/10357361/214296235-6800bf13-aaf0-4f19-a856-d986c05a288e.png)
+
+# Why we would want to have it?
+It could be  used in multiplayer game as spectator camera which would always go to an area that has most amount of players. As you know, an area that most amount of players always has most amount of action going on.
 
 
 # Camera AI Actor
