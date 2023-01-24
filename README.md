@@ -15,6 +15,17 @@ Step 5: <br />
 ![image](https://user-images.githubusercontent.com/10357361/214280666-5a71bbc2-7d87-42e5-b40f-d09c294d46d0.png)
 
 
+Camera positioning:
+
+Get all actors that are facing camera and those who do not
+![image](https://user-images.githubusercontent.com/10357361/214281550-d2113ba6-f5b6-4aed-9396-04d70b66677d.png)
+![image](https://user-images.githubusercontent.com/10357361/214281603-89f02489-6ead-41d2-946c-b3594ed7c3bc.png)
+![image](https://user-images.githubusercontent.com/10357361/214281639-137a5d73-279d-429d-8f43-2eff045210d4.png)
+
+
+
+
+
 
 
 
