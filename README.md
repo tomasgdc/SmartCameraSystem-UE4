@@ -1,5 +1,6 @@
 # Smart Camera System
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/10357361/214292268-a8a1c4e3-bec3-472a-bdbf-f523417304ea.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/10357361/214304427-9e87be75-4fe5-4f89-ac26-96ad215349ec.gif)
 
 # Intro
 Basic idea behind this technique is to use  K-means clustering which is unsupervised machine learning algorithm.
