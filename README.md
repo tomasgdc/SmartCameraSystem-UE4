@@ -1,8 +1,14 @@
 # SmartCameraSystem
-UE4 Smart Camera System <br />
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/10357361/214292268-a8a1c4e3-bec3-472a-bdbf-f523417304ea.gif)
 
+# Intro
+Basic idea behind this technique is to use  K-means clustering which is unsupervised machine learning algorithm.
+It generates  numbes of cluster you specify in config and based  on given data camera will follow to a cluster that has most amount of players.
+Usuaally in multiplayer games  an area that has most amount of players you know where the most biggest  spectacle would be going on.
+![image](https://user-images.githubusercontent.com/10357361/214296235-6800bf13-aaf0-4f19-a856-d986c05a288e.png)
 
+
+# Camera AI Actor
 How Event Tick looks like: <br />
 Step 1 - Generate cluster: <br />
 ![image](https://user-images.githubusercontent.com/10357361/214280513-5271e54a-bea4-4698-9f55-80ffc9411420.png)
@@ -15,15 +21,12 @@ Step 4 - Used for visualising KMeans: <br />
 Step 5 - Get centroids with most clusters: <br />
 ![image](https://user-images.githubusercontent.com/10357361/214280666-5a71bbc2-7d87-42e5-b40f-d09c294d46d0.png)
 
-
-Camera positioning:
-
 Get all actors that are facing camera and those who do not
 ![image](https://user-images.githubusercontent.com/10357361/214281550-d2113ba6-f5b6-4aed-9396-04d70b66677d.png)
 ![image](https://user-images.githubusercontent.com/10357361/214281603-89f02489-6ead-41d2-946c-b3594ed7c3bc.png)
 ![image](https://user-images.githubusercontent.com/10357361/214281639-137a5d73-279d-429d-8f43-2eff045210d4.png)
 
-Camera AI Controller <br />
+# Camera AI Controller
 Once we have all actors that are facing camera  and do not. We calculate our look at rotator. If we have more actors that are facing camera.
 Then get average rotator in that position otherwise get averga rotator to actors who arer not facing camera.
 ![image](https://user-images.githubusercontent.com/10357361/214293265-36fa0123-999c-4a1d-baf6-cc76b0c3e6ed.png)
