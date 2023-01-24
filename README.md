@@ -37,7 +37,8 @@ Update new camera position with new camera location we got from cluster and look
 ![image](https://user-images.githubusercontent.com/10357361/214293597-1829e7f2-dc56-4aa3-8acf-145e0c474a69.png)
 
 
-
+# Things that are not solved.
+Camera will go through walls as I haven't solved issue regarding where camera should be if we are going to colide with a wall. One of the solutions is to use Sparse Voxel Octree Navigation or look into how Journey placed they camera.
 
 
 
